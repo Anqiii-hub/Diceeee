@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #F6E3C5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #DF7861;
+}
+
+h3 {
+  margin: 30px;
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #DF7861;
+}
+
+p {
+  font-size: 2rem;
+  color: #DF7861;
+  font-family: 'Permanent Marker', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
